@@ -1,0 +1,30 @@
+body {
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+#quoteBtn {
+  background-color: blue;
+  border: 2px solid blue;
+  border-radius: 4px;
+  font-size: 9px;
+}
+#quoteBtn:hover {
+  background-color: rgb(54, 54, 243);
+  font-size: 20px;
+}
+h1 {
+  color: aliceblue;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.5;
+}
+span {
+  color: white;
+}
